@@ -20,7 +20,7 @@ TextBlob is a lexicon-based tool. It looks up word polarities in a fixed diction
 ## Running it locally
 
 ```bash
-git clone https://github.com/ajaylodha525/journaling-app.git
+git clone https://github.com/ajaylodhaa/journaling-app.git
 cd journaling-app
 python -m venv venv
 venv\Scripts\activate
